@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">GroceriesYou</string>
+    <string name="settingsWIP_Toast">Settings is WIP</string>
+    <string name="ftCostShopCard"> Ft</string>
+    <string name="placeholder_SearchBar">Search Shopping List</string>
+    <string name="catLabelSpinner">Category</string>
+    <string name="storeLabelSpinner">Store</string>
+    <string name="cancel_BTN">Cancel</string>
+    <string name="OK_BTN">OK</string>
+    <string name="quant_TF">Quantity</string>
+    <string name="cost_TF">Unit Cost</string>
+    <string name="desc_TF">Description</string>
+    <string name="shopTitle_TF">Enter item title</string>
+    <string name="err_IconDesc">error</string>
+    <string name="shopName_TF">Item Name</string>
+    <string name="cleared_IconBTN">Cleared bought items</string>
+    <string name="chart_bought">Bought</string>
+    <string name="chart_left">Left</string>
+    <string name="chart_totalcost">Total Cost</string>
+    <string name="currency_ft">Ft</string>
+</resources>
